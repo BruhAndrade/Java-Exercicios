@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TestIf {
+public class Testif {
     public static void main(String[] args) {
         // Cria um objeto Scanner para leitura de entrada do teclado
         Scanner teclado = new Scanner(System.in);

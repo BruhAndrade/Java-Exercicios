@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class Exercicio02(){
-    public void main(String args[]){
+public class Exercicio02{
+    public static void main(String[] args){
         Scanner teclado = new Scanner(System.in);
         double raio, altura, V;
 
@@ -15,6 +15,6 @@ public class Exercicio02(){
         System.out.printf("O volume do cilindro vale %.3f cm3\n", V);
         
 
-        teclado.close;
+        teclado.close();
     }
 }

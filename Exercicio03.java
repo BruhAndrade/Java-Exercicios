@@ -1,6 +1,6 @@
 import java.util.Scanner;
- public class Exercicio03(){
-    public static void main(String args[]){
+ public class Exercicio03{
+    public static void main(String []args){
         Scanner teclado = new Scanner(System.in);
 
     //entrada
@@ -23,6 +23,6 @@ import java.util.Scanner;
 System.out.printf("O valor com desconto  R$%.2f\n", valorComDesconto);
 
 
-        teclado.close;
+        teclado.close();
     }
  }

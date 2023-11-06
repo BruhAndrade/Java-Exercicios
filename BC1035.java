@@ -6,7 +6,7 @@
 //escrever a mensagem "Valores aceitos", senão escrever"valores não aceitos"
 import java.util.Scanner;
 
-public class BC1035() {
+public class BC1035{
     public static void main(String args[]) {
         // Cria um objeto Scanner para leitura de entrada do teclado
         Scanner teclado = new Scanner(System.in);
